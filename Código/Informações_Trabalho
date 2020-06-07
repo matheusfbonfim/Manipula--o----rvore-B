@@ -1,0 +1,13 @@
+-- INTEGRANTES
+	Eberson Taynan Tomazelli / RA : 1992783
+	Matheus de Farias Bonfim / RA : 1992864
+
+-- INFORMAÇÕES RELEVANTES
+
+	O código em sua grande parte está comentado com as informações do que cada função faz, assim como os processos internos 
+	Uma restrição do nosso codigo é que a função geraIdAleatorio() está restringida a retorna numeros com até 4 digitos 
+	Uma escolha de projeto foi a utilização de variaveis globais que são essenciais para o funcionamento correto do programa
+	A complexidade de espaço está limitada a 0(1) na memória principal.
+	A APS como um todo foi muito satisfatória, sendo necessário um grande empenho da dupla para conseguirmos concluí-la. Possibilitou um grande entendimento do funcionamento da árvore B e manipulação de arquivos em disco.  
+	
+
